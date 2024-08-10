@@ -4,4 +4,4 @@ This was my final project for CS 74, Machine Learning and Stastical Data Analysi
 
 ## Project Layout
 
-The code can be found in the [Fick_final.ipynb](Fick_final.ipynb) file, the summary of the accuracy of the results can be found in the [Final_report.pdf](Final_report.pdf) file, and the testing and training data can be found in the appropriate files.
+The code can be found in the [Fick_final.ipynb](Fick_final.ipynb) file, the summary of the accuracy of the results can be found in the [Final_Report.pdf](Final_Report.pdf) file, and the testing and training data can be found in the appropriate files.
